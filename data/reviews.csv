@@ -1,0 +1,11 @@
+review_id,product_id,product_name,rating,review_text,review_date
+1,P001,Cordless Drill 18V,5,"Absolutely brilliant drill, powerful and lightweight. Very happy with this purchase.",2024-01-15
+2,P001,Cordless Drill 18V,2,"Stopped working after two weeks. Very disappointed, poor quality.",2024-01-18
+3,P002,Paint Roller Set,4,"Good quality rollers, minimal shedding. Does the job well.",2024-01-20
+4,P002,Paint Roller Set,1,"Terrible. Bristles fell off immediately. Complete waste of money.",2024-01-22
+5,P003,Safety Gloves,5,"Excellent grip and very comfortable. Use them every day.",2024-01-25
+6,P003,Safety Gloves,3,"Average quality, nothing special but gets the job done.",2024-01-28
+7,P004,Tile Adhesive 20kg,4,"Strong adhesive, easy to mix and apply. Good product.",2024-02-01
+8,P004,Tile Adhesive 20kg,2,"Dried too quickly, difficult to work with. Not recommended.",2024-02-03
+9,P005,LED Work Light,5,"Incredibly bright and energy efficient. Perfect for the workshop.",2024-02-05
+10,P005,LED Work Light,1,"Flickered from day one and then died. Terrible product.",2024-02-07
